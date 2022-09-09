@@ -8,7 +8,7 @@ def main():
     bot=Bot_Meet_Room()
     bot.enter_page()
     time.sleep(5)
-    bot.Log_in("andres.gomez29","lepava27")
+    bot.Log_in("username","password")
     time.sleep(5)
     bot.library_interfaz()
     time.sleep(5)
